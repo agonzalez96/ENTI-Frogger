@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Difficulty>
+  
+  <Easy>
+   
+    <Vehiculos>
+    
+      <Coche>
+        <ID> 1</ID>
+        <x> 10 </x>
+        <y> 570 </y>
+      </Coche>
+
+      <Coche>
+        <ID> 1</ID>
+        <x> 300 </x>
+        <y> 570 </y>
+      </Coche>
+
+      <Coche>
+        <ID> 1</ID>
+        <x> 500 </x>
+        <y> 570 </y>
+      </Coche>
+
+      <Rally2>
+        <ID>4</ID>
+        <x> 10 </x>
+        <y> 685 </y>
+      </Rally2>
+
+      <Rally2>
+        <ID>4</ID>
+        <x> 300 </x>
+        <y> 685 </y>
+      </Rally2>
+
+      <Rally2>
+        <ID>4</ID>
+        <x> 500 </x>
+        <y> 685 </y>
+      </Rally2>
+
+      <Trituga>
+        <ID>13</ID>
+        <x> 0 </x>
+        <y> 330 </y>
+      </Trituga>
+
+      <Trituga>
+        <ID>13</ID>
+        <x> 300 </x>
+        <y> 330 </y>
+      </Trituga>
+      
+      <Trituga>
+        <ID>13</ID>
+        <x> 600 </x>
+        <y> 330 </y>
+      </Trituga>
+  
+      <Camion>
+        <ID>5</ID>
+        <x> 10 </x>
+        <y> 455 </y>
+      </Camion>
+
+      <Camion>
+        <ID>5</ID>
+        <x> 500 </x>
+        <y> 455 </y>
+      </Camion>
+
+      <Tortuga>
+        <ID>12</ID>
+        <x> 0 </x>
+        <y> 155 </y>
+      </Tortuga>
+
+      <Tortuga>
+        <ID>12</ID>
+        <x> 200 </x>
+        <y> 155 </y>
+      </Tortuga>
+
+      <Tortuga>
+        <ID>12</ID>
+        <x> 400 </x>
+        <y> 155 </y>
+      </Tortuga>
+
+      <Tortuga>
+        <ID>12</ID>
+        <x> 600 </x>
+        <y> 155 </y>
+      </Tortuga>
+      
+      <Excavadora>
+        <ID>2</ID>
+        <x> 10 </x>
+        <y> 640 </y>
+      </Excavadora>
+
+      <Excavadora>
+        <ID>2</ID>
+        <x> 230 </x>
+        <y> 640 </y>
+      </Excavadora>
+
+      <Excavadora>
+        <ID>2</ID>
+        <x> 460 </x>
+        <y> 640 </y>
+      </Excavadora>
+
+      <Rally1>
+        <ID>3</ID>
+        <x> 10 </x>
+        <y> 510 </y>
+      </Rally1>
+    
+      <Tronco_corto>
+        <ID>6</ID>
+        <x> 20 </x>
+        <y> 280 </y>
+      </Tronco_corto>
+
+      <Tronco_corto>
+        <ID>6</ID>
+        <x> 350 </x>
+        <y> 280 </y>
+      </Tronco_corto>
+
+      <Tronco_corto>
+        <ID>6</ID>
+        <x> 700 </x>
+        <y> 280 </y>
+      </Tronco_corto>
+
+      <Tronco_largo>
+        <ID>7</ID>
+        <x> 0 </x>
+        <y> 220 </y>
+      </Tronco_largo>
+
+      <Tronco_largo>
+        <ID>7</ID>
+        <x> 590 </x>
+        <y> 220 </y>
+      </Tronco_largo>
+
+      <Tronco_mediano>
+        <ID>8</ID>
+        <x> 0 </x>
+        <y> 100 </y>
+      </Tronco_mediano>
+
+      <Tronco_mediano>
+        <ID>8</ID>
+        <x> 350 </x>
+        <y> 100 </y>
+      </Tronco_mediano>
+
+      <Tronco_mediano>
+        <ID>8</ID>
+        <x> 700 </x>
+        <y> 100 </y>
+      </Tronco_mediano>
+
+      <Nutria>
+        <ID>10</ID>
+        <x> 180 </x>
+        <y> 280 </y>
+      </Nutria>
+
+      <Nutria>
+        <ID>14</ID>
+        <x> 350 </x>
+        <y> 220 </y>
+      </Nutria>
+      
+    </Vehiculos> 
+
+  </Easy>
+  
+  <Medium>
+
+    <Vehiculos>
+      
+      <Coche>
+        <ID> 1</ID>
+        <x> 10 </x>
+        <y> 570 </y>
+      </Coche>
+
+      <Coche>
+        <ID> 1</ID>
+        <x> 300 </x>
+        <y> 570 </y>
+      </Coche>
+
+      <Coche>
+        <ID> 1</ID>
+        <x> 500 </x>
+        <y> 570 </y>
+      </Coche>
+
+      <Rally2>
+        <ID>4</ID>
+        <x> 10 </x>
+        <y> 685 </y>
+      </Rally2>
+
+      <Rally2>
+        <ID>4</ID>
+        <x> 300 </x>
+        <y> 685 </y>
+      </Rally2>
+
+      <Rally2>
+        <ID>4</ID>
+        <x> 500 </x>
+        <y> 685 </y>
+      </Rally2>
+
+      <Trituga>
+        <ID>13</ID>
+        <x> 0 </x>
+        <y> 330 </y>
+      </Trituga>
+
+      <Trituga>
+        <ID>13</ID>
+        <x> 300 </x>
+        <y> 330 </y>
+      </Trituga>
+      
+      <Trituga>
+        <ID>13</ID>
+        <x> 600 </x>
+        <y> 330 </y>
+      </Trituga>
+
+      <Camion>
+        <ID>5</ID>
+        <x> 10 </x>
+        <y> 455 </y>
+      </Camion>
+
+      <Camion>
+        <ID>5</ID>
+        <x> 500 </x>
+        <y> 455 </y>
+      </Camion>
+
+      <Tortuga>
+        <ID>12</ID>
+        <x> 0 </x>
+        <y> 155 </y>
+      </Tortuga>
+
+      <Tortuga>
+        <ID>12</ID>
+        <x> 200 </x>
+        <y> 155 </y>
+      </Tortuga>
+
+      <Tortuga>
+        <ID>12</ID>
+        <x> 400 </x>
+        <y> 155 </y>
+      </Tortuga>
+
+      <Tortuga>
+        <ID>12</ID>
+        <x> 600 </x>
+        <y> 155 </y>
+      </Tortuga>
+
+      <Excavadora>
+        <ID>2</ID>
+        <x> 10 </x>
+        <y> 640 </y>
+      </Excavadora>
+
+      <Excavadora>
+        <ID>2</ID>
+        <x> 230 </x>
+        <y> 640 </y>
+      </Excavadora>
+
+      <Excavadora>
+        <ID>2</ID>
+        <x> 460 </x>
+        <y> 640 </y>
+      </Excavadora>
+
+      <Rally1>
+        <ID>3</ID>
+        <x> 10 </x>
+        <y> 510 </y>
+      </Rally1>
+
+      <Tronco_corto>
+        <ID>6</ID>
+        <x> 20 </x>
+        <y> 280 </y>
+      </Tronco_corto>
+
+      <Tronco_corto>
+        <ID>6</ID>
+        <x> 350 </x>
+        <y> 280 </y>
+      </Tronco_corto>
+
+      <Tronco_corto>
+        <ID>6</ID>
+        <x> 700 </x>
+        <y> 280 </y>
+      </Tronco_corto>
+
+      <Tronco_largo>
+        <ID>7</ID>
+        <x> 0 </x>
+        <y> 220 </y>
+      </Tronco_largo>
+
+      <Tronco_largo>
+        <ID>7</ID>
+        <x> 590 </x>
+        <y> 220 </y>
+      </Tronco_largo>
+
+      <Tronco_mediano>
+        <ID>8</ID>
+        <x> 0 </x>
+        <y> 100 </y>
+      </Tronco_mediano>
+
+      <Tronco_mediano>
+        <ID>8</ID>
+        <x> 350 </x>
+        <y> 100 </y>
+      </Tronco_mediano>
+
+      <Tronco_mediano>
+        <ID>8</ID>
+        <x> 700 </x>
+        <y> 100 </y>
+      </Tronco_mediano>
+
+      <Nutria>
+        <ID>10</ID>
+        <x> 10 </x>
+        <y> 220 </y>
+      </Nutria>
+
+    </Vehiculos>
+
+  </Medium>
+
+  <Hard>
+
+    <Vehiculos>
+      <Coche>
+        <ID> 1</ID>
+        <x> 10 </x>
+        <y> 570 </y>
+      </Coche>
+
+      <Coche>
+        <ID> 1</ID>
+        <x> 300 </x>
+        <y> 570 </y>
+      </Coche>
+
+      <Coche>
+        <ID> 1</ID>
+        <x> 500 </x>
+        <y> 570 </y>
+      </Coche>
+
+      <Rally2>
+        <ID>4</ID>
+        <x> 10 </x>
+        <y> 685 </y>
+      </Rally2>
+
+      <Rally2>
+        <ID>4</ID>
+        <x> 300 </x>
+        <y> 685 </y>
+      </Rally2>
+
+      <Rally2>
+        <ID>4</ID>
+        <x> 500 </x>
+        <y> 685 </y>
+      </Rally2>
+
+      <Trituga>
+        <ID>13</ID>
+        <x> 0 </x>
+        <y> 330 </y>
+      </Trituga>
+
+      <Trituga>
+        <ID>13</ID>
+        <x> 300 </x>
+        <y> 330 </y>
+      </Trituga>
+
+      <Trituga>
+        <ID>13</ID>
+        <x> 600 </x>
+        <y> 330 </y>
+      </Trituga>
+
+      <Camion>
+        <ID>5</ID>
+        <x> 10 </x>
+        <y> 455 </y>
+      </Camion>
+
+      <Camion>
+        <ID>5</ID>
+        <x> 500 </x>
+        <y> 455 </y>
+      </Camion>
+
+      <Tortuga>
+        <ID>12</ID>
+        <x> 0 </x>
+        <y> 155 </y>
+      </Tortuga>
+
+      <Tortuga>
+        <ID>12</ID>
+        <x> 200 </x>
+        <y> 155 </y>
+      </Tortuga>
+
+      <Tortuga>
+        <ID>12</ID>
+        <x> 400 </x>
+        <y> 155 </y>
+      </Tortuga>
+
+      <Tortuga>
+        <ID>12</ID>
+        <x> 600 </x>
+        <y> 155 </y>
+      </Tortuga>
+
+      <Excavadora>
+        <ID>2</ID>
+        <x> 10 </x>
+        <y> 640 </y>
+      </Excavadora>
+
+      <Excavadora>
+        <ID>2</ID>
+        <x> 230 </x>
+        <y> 640 </y>
+      </Excavadora>
+
+      <Excavadora>
+        <ID>2</ID>
+        <x> 460 </x>
+        <y> 640 </y>
+      </Excavadora>
+
+      <Rally1>
+        <ID>3</ID>
+        <x> 10 </x>
+        <y> 510 </y>
+      </Rally1>
+
+      <Tronco_corto>
+        <ID>6</ID>
+        <x> 20 </x>
+        <y> 280 </y>
+      </Tronco_corto>
+
+      <Tronco_corto>
+        <ID>6</ID>
+        <x> 350 </x>
+        <y> 280 </y>
+      </Tronco_corto>
+
+      <Tronco_corto>
+        <ID>6</ID>
+        <x> 700 </x>
+        <y> 280 </y>
+      </Tronco_corto>
+
+      <Tronco_largo>
+        <ID>7</ID>
+        <x> 0 </x>
+        <y> 220 </y>
+      </Tronco_largo>
+
+      <Tronco_largo>
+        <ID>7</ID>
+        <x> 590 </x>
+        <y> 220 </y>
+      </Tronco_largo>
+
+      <Tronco_mediano>
+        <ID>8</ID>
+        <x> 0 </x>
+        <y> 100 </y>
+      </Tronco_mediano>
+
+      <Tronco_mediano>
+        <ID>8</ID>
+        <x> 350 </x>
+        <y> 100 </y>
+      </Tronco_mediano>
+
+      <Tronco_mediano>
+        <ID>8</ID>
+        <x> 700 </x>
+        <y> 100 </y>
+      </Tronco_mediano>
+
+      <Nutria>
+        <ID>10</ID>
+        <x> 10 </x>
+        <y> 220 </y>
+      </Nutria>
+
+    </Vehiculos>
+
+  </Hard>
+
+</Difficulty>

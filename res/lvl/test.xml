@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+  <node attribute="0" />
+  <node attribute="1">
+    <node attribute="2" more_attribute="child" />
+    <node attribute="3" more_attribute="sibling" />
+  </node>
+</document>
